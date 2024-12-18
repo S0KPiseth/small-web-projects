@@ -1,0 +1,32 @@
+body {
+  background-image: url("https://img.freepik.com/free-vector/sunset-city-background_1092-42.jpg?t=st=1734496033~exp=1734499633~hmac=a2baaf5ec3a0d8e9b0adc0f424b38cd23aecc6ff017312a12edcad2e9b008358&w=900");
+  color: #fcbe24;
+  padding: 0 24px;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  color: black;
+  font-size: 100px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+div {
+  width: 550px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+}
